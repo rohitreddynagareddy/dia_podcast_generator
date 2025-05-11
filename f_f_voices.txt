@@ -1,0 +1,1 @@
+[S1] Welcome back to another episode of AI Unfiltered! I'm Jamie. [S2] And I'm Taylor. Today, we have some really exciting news from the text-to-speech frontier. [S1] That's right! There's a new open source TTS model on the block called Dia. [S2] So, Dia is developed by a two-person startup called Nari Labs.
