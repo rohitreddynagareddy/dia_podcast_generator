@@ -1,0 +1,2 @@
+[S1] Pretty amazing for scriptwriters, podcasters, or even game developers. Oh, and you don’t need to fish around for complicated setup — Nari Labs has released Python code and a browser-based demo.
+[S2] Yeah, I tried their Gradio demo last night. Seriously impressive. The model even switches emotional tone smoothly, which is something ElevenLabs and the new Sesame model struggle with.
