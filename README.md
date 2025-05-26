@@ -2,7 +2,7 @@
 
 The Colab notebook in this repo enables you to generate **dual voice** podcast style audio files using Nari labs open source audio model Dia-1.B. 
 
-Link to the notebook: 
+Link to the notebook in Colab: https://colab.research.google.com/github/smartaces/dia_podcast_generator/blob/main/GOATBookLM_Nari_Labs_DIA_1B_Open_Source_Podcast_Generator_Shared.ipynb
 
 It is structured as follows...
 
