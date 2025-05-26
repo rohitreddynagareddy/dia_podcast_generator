@@ -19,3 +19,6 @@ Beyond this, the notebook also includes:
 *   The notebook also allows you preview sections of the podcast audio you generate, and redraft/ regenerate parts if needed.
 
 *   Finally the notebook exports a complete single file which you can listen to as a full podcast recording.
+
+![image](https://github.com/user-attachments/assets/3f1ab2a9-9ef2-4297-bfdb-1b32e992540b)
+
